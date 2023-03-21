@@ -10,8 +10,8 @@ Apos isso, foi aplicada a clean architecture no jogo.
 
 Foram gerados os diagramas de classe, pacotes e casos de uso, que podem ser vistos abaixo:
 
-![Alt text](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/ClassDiagram.png?raw=true "Diagrama de Classes")
+![Diagrama de Classes](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/ClassDiagram.png?raw=true)
 
-![Alt text](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/PackageDiagram.png?raw=true "Diagrama de Pacotes")
+![Diagrama de Pacotes](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/PackageDiagram.png?raw=true)
 
-![Alt text](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/UseCaseDiagram.png?raw=true "Diagrama de Casos de Uso")
+![Diagrama de Casos de Uso](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/UseCaseDiagram.png?raw=true)
