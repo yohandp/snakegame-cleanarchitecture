@@ -14,4 +14,4 @@ Foram gerados os diagramas de classe, pacotes e casos de uso, que podem ser vist
 
 ![Diagrama de Pacotes](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/PackageDiagram.png?raw=true)
 
-![Diagrama de Casos de Uso](https://github.com/yohandp/snakegame-cleanarchitecture/blob/main/Diagramas/UseCaseDiagram.png?raw=true)
+![Diagrama de Casos de Uso](https://github.com/yohandp/snakegame-cleanarchitecture/tree/main/Diagramas/UseCaseDiagram.png?raw=true)
